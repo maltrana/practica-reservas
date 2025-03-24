@@ -1,0 +1,7 @@
+[
+  { "id": "r1", "restauranteId": "rest1", "fecha": "2025-03-25", "hora": "14:00", "personas": 4, "nombreCliente": "Juan", "duracion": 90 },
+  { "id": "r2", "restauranteId": "rest1", "fecha": "2025-03-25", "hora": "14:45", "personas": 2, "nombreCliente": "Ana", "duracion": 60 },
+  { "id": "r3", "restauranteId": "rest1", "fecha": "2025-03-25", "hora": "15:15", "personas": 3, "nombreCliente": "Luis", "duracion": 45 },
+  { "id": "r4", "restauranteId": "rest1", "fecha": "2025-03-25", "hora": "14:30", "personas": 5, "nombreCliente": "María", "duracion": 120 },
+  { "id": "r5", "restauranteId": "rest1", "fecha": "2025-03-26", "hora": "14:00", "personas": 4, "nombreCliente": "Pepe", "duracion": 60 }
+]
