@@ -1,0 +1,8 @@
+{
+  "id": "rest1",
+  "nombre": "Restaurante Demo",
+  "capacidad": 40,
+  "mesas": 10,
+  "plazasPorMesa": 4,
+  "turno": "comida"
+}

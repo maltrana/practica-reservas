@@ -1,0 +1,25 @@
+{
+    "name": "tuproyecto/gestor-reservas",
+    "description": "Sistema para gestionar reservas en restaurantes",
+    "type": "project",
+    "require": {},
+    "require-dev": {
+      "phpunit/phpunit": "^10.0"
+    },
+    "autoload": {
+      "psr-4": {
+        "App\\": "src/"
+      }
+    },
+    "autoload-dev": {
+      "psr-4": {
+        "Tests\\": "tests/"
+      }
+    },
+    "scripts": {
+      "test": "phpunit"
+    },
+    "minimum-stability": "stable",
+    "license": "MIT"
+  }
+  
