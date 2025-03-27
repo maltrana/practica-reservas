@@ -2,7 +2,6 @@
 
 use PHPUnit\Framework\TestCase;
 use PHPUnit\Framework\Attributes\Before;
- 
 
 require_once __DIR__ . '/../src/GestorReservas.php';
 

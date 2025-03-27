@@ -1,1 +1,1 @@
-{"version":1,"defects":[],"times":{"GestorReservasTest::testCalcularOcupacion":0.001,"GestorReservasTest::testEstaCompleto":0,"GestorReservasTest::testOcupacionPorIntervaloEsperada":0}}
+{"version":1,"defects":{"GestorReservasTest::testCalcularOcupacion":7,"GestorReservasTest::testEstaCompleto":7,"GestorReservasTest::testOcupacionPorIntervaloEsperada":7},"times":{"GestorReservasTest::testCalcularOcupacion":0.003,"GestorReservasTest::testEstaCompleto":0.003,"GestorReservasTest::testOcupacionPorIntervaloEsperada":0.002}}
